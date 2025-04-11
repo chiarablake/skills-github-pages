@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Welcome to Chiara Blake's Portfolio
 ---
 
